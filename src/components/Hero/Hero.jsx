@@ -133,7 +133,7 @@ export default function Hero() {
             <p className="mt-1 text-ink-muted">
               <span className="text-term-green">&gt;</span> available_for_hire:{" "}
               <span className="str">true</span> &nbsp;|&nbsp; currently_learning:{" "}
-              <span className="str">[AI, Kubernetes, System Design]</span>
+              <span className="str">[AI, Machine Learning, Kubernetes, System Design]</span>
             </p>
           </motion.div>
         </div>
